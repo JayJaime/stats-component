@@ -196,7 +196,7 @@ body {
         hsla(277, 87%, 34%, 0.6),
         hsla(277, 87%, 34%, 0.6)
       ),
-      url("images/image-header-mobile.jpg");
+      url("images/image-header-desktop.jpg");
     background-size: cover;
     background-position: top;
     background-blend-mode: normal;
