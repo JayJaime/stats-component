@@ -155,7 +155,7 @@ body {
   }
 
   .card-wrapper {
-    width: min(100%, 900px);
+    width: min(100%, 920px);
     height: auto;
     background-color: hsl(244, 38%, 16%);
     border-radius: 8px;
@@ -169,7 +169,7 @@ body {
   .txt-content-wrapper {
     /* height: 70%; */
     width: 100%;
-    padding: 40px 80px 40px 40px;
+    padding: 56px 80px 56px 56px;
   }
 
   .card-txt {
@@ -190,7 +190,7 @@ body {
   }
 
   .img-wrapper {
-    height: 350px;
+    height: 385px;
     width: 100%;
     background-image: linear-gradient(
         hsla(277, 87%, 34%, 0.6),
