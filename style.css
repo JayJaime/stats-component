@@ -155,7 +155,7 @@ body {
   }
 
   .card-wrapper {
-    width: min(100%, 920px);
+    width: min(100%, 950px);
     height: auto;
     background-color: hsl(244, 38%, 16%);
     border-radius: 8px;
